@@ -1,3 +1,3 @@
 # HYP3 Symfony Assignment
 
-Author: Benno Klabuster, S2110238099
+Author: Sebastian Zauner, S2110238081
